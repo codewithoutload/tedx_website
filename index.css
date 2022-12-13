@@ -568,7 +568,7 @@ h3{
     }
 
     .thumbnail{
-        height:165px;
+        height:170px;
         width:225px;
         background: black url('./Images/thumbnail.png') no-repeat center;
         overflow:hidden;
